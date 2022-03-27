@@ -8,7 +8,7 @@ while True:
      myNumber = (smaller + larger)
      print('%d %d' % (smaller, larger))
      print('Your number is %d'% myNumber)
-     choice = input('Enter =,<, or >:')
+           choice = input('Enter =,<, or >:')
      if choice == '=':
           print("Hooray, I've got it in %d tries"% count)
           break
