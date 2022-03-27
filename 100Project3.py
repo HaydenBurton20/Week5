@@ -19,4 +19,3 @@ while True:
                 larger = myNumber - 1
 else:
         smaller = myNumber + 1
-          
